@@ -191,14 +191,6 @@ Once the notebooks are run and Ngrok tunnels are active:
     *   **Request Body:** A JSON object matching the `HealthInput` Pydantic model defined in `High_Accuracies.ipynb`.
     *   **Response Body:** `{"prediction": "Positive/Negative"}` (Mapping to Low/Medium/High risk needs clarification based on implementation)
 
----
-
-## License
-
-(Specify your chosen license here, e.g., MIT, Apache 2.0, or leave blank if undecided)
-
-Example:
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details (if you have one).
 
 ---
 
